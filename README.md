@@ -45,7 +45,7 @@ PhotoGalleryApp is an Apache Cordova application that allows users to take photo
     cordova build android
     ```
     
-6. **Cleanup and reload android platform in case of Exception
+6. **Cleanup and reload android platform in case of Exception**:
     ```bash
     cordova clean
     cordova platform remove android
